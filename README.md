@@ -33,5 +33,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/echomail.git
+   git clone https://github.com/Atul-Kumar-Rana/echomail.git
    cd echomail
