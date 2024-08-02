@@ -1,5 +1,5 @@
-ECHO-MAIL
-ECHO-MAIL is a mass mailing system that leverages AWS services including Lambda, S3, and SNS to send bulk emails efficiently. The project is designed to be scalable, cost-effective, and easy to manage.
+AWS Notify
+AWS Notify is a mass mailing system that leverages AWS services including Lambda, S3, and SNS to send bulk emails efficiently. The project is designed to be scalable, cost-effective, and easy to manage.
 
 Table of Contents
 Project Overview
@@ -29,7 +29,7 @@ Follow these steps to set up the project:
 1. Clone the repository
 bash
 Copy code
-git clone https://github.com/Atul-Kumar-Rana/ECHO-MAIL.git
+git clone https://github.com/Atul-Kumar-Rana/AWS-Notify.git
 cd ECHO-MAIL
 2. Install dependencies
 bash
@@ -77,7 +77,7 @@ Copy code
 {
   "recipients": ["recipient1@example.com", "recipient2@example.com"],
   "template": "welcome-email.html",
-  "subject": "Welcome to ECHO-MAIL",
+  "subject": "Welcome to AWS Notify
   "variables": {
     "username": "John Doe",
     "signup_date": "2024-07-28"
